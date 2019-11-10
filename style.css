@@ -1,0 +1,22 @@
+  
+body {background-color:lightgray;}
+
+p {padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;}
+
+nav {background-color: white}
+
+.panel-body {background-color: white;}
+
+h2 {color: teal; font-family: 'Times New Roman', Times, serif;padding-block-start: 10px;padding-left: 15px;font-weight: bold}
+h3 {color: teal; font-family: 'Times New Roman', Times, serif;padding-block-start: 10px;padding-left: 15px;font-weight: bold}
+
+.lattitude {color: white; background-color: teal;font-weight: bold;  
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;}
+
+table {background-color: white}
