@@ -18,5 +18,10 @@ h3 {color: teal; font-family: 'Times New Roman', Times, serif;padding-block-star
     padding-right: 15px;
     padding-bottom: 5px;
     padding-left: 15px;}
-
-table {background-color: white}
+th {
+    background-color: teal;
+    color: white; 
+    padding-left: 10x
+  }
+table {background-color: white; padding-left: 5x}
+tr:nth-child(even) {background-color: #f2f2f2;}
